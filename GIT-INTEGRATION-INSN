@@ -1,7 +1,3 @@
 base origin/master
 
-merge transparent-union
-
-merge fix-sizeof-bool-test
-
 merge c11-support
