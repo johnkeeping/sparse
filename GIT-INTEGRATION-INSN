@@ -1,6 +1,6 @@
 base origin/master
 
-merge ptr-inherit-nocast
+. merge ptr-inherit-nocast
 
 merge c11-support
 
