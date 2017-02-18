@@ -1,7 +1,3 @@
 base origin/sparse-next
 
 . merge ptr-inherit-nocast
-
-. merge c11-support
-
-. merge fix-anon-union-offset
